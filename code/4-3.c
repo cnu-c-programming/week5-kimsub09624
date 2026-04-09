@@ -10,7 +10,7 @@ int main() {
 	if(0 <= index && index <= 4) {
 		printf("%d\n", arr[index]);
 	} else {
-		printf("Error\n");
+		printf("Error!\n");
 	}
 	
 	return 0;
